@@ -15,9 +15,12 @@ AI Practitioner!
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kubernetes.svg" width="36" height="36" alt="kubernetes" /></a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TensorFlow-Dark.svg" width="36" height="36" alt="TensorFlow" /></a> 
+<a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" width="50" height="36" alt="Keras" /></a> 
+<a href="https://www.databricks.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" width="75" height="36" alt="Databricks" /></a> 
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://a11ybadges.com/badge?logo=apacheairflow" width="120" height="36" alt="Keras" /></a> 
 </p>
-
 
 ### Socials
 
