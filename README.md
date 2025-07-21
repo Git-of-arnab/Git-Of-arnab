@@ -6,9 +6,9 @@ AI Practitioner!
 
 * 🌍  I'm based in Bengaluru, India
 * ✉️  You can contact me at [hello.arnab.chandra@gmail.com](mailto:hello.arnab.chandra@gmail.com)
-* 🧠  I'm learning Airflow, GCP Vertex Ai, Azure Databricks, MLOps
-* 🤝  I'm open to collaborating on Machine learning use cases in 6G, E2E ML pipeline,market analytics and computer vision
-* ⚡  Proficient working with large structured and unstructured data
+* 🧠  I'm working extensively on LLMOps, MLOps, AWS and Agentic AI with major focus on inference accuracy & speed at deployment.
+* 🤝  I'm open to collaborating on AI use cases in Telecom, Automotive, E2E ML pipeline,market analytics and computer vision
+* ⚡  Proficient working with large structured and unstructured data, Foundation Model Pre-training, Finetuning and Quantization
 
 ### Skills
 
